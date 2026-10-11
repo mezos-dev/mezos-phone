@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mezos-phone</title>
+    <link rel="stylesheet" href="./css/fontawesome.min.css">
+    <link rel="stylesheet" href="./css/ios.css">
+    <link rel="stylesheet" href="./css/apps.css">
+    <link rel="stylesheet" href="./css/apps2.css">
+    <link rel="stylesheet" href="./css/apps3.css">
+</head>
+<body>
+    <div id="cam-dim" class="cam-dim"></div>
+    <div id="phone" class="phone is-hidden">
+        <div class="phone-frame">
+            <span class="side-btn btn-action"></span>
+            <span class="side-btn btn-vol-up"></span>
+            <span class="side-btn btn-vol-down"></span>
+            <span class="side-btn btn-power"></span>
+
+            <div id="screen" class="screen">
+                <div id="wallpaper" class="wallpaper"></div>
+
+                <!-- Home screen -->
+                <div id="home" class="home">
+                    <div id="home-pages" class="home-pages"></div>
+                    <div id="home-search" class="home-search"><i class="fa-solid fa-magnifying-glass"></i> Search</div>
+                    <div id="home-dots" class="home-dots"></div>
+                    <div id="dock" class="dock"></div>
+                </div>
+
+                <!-- Opened application -->
+                <div id="app-window" class="app-window"></div>
+
+                <!-- Spotlight search -->
+                <div id="spotlight" class="spotlight"></div>
+
+                <!-- Lock screen -->
+                <div id="lockscreen" class="lockscreen"></div>
+
+                <!-- Call screen -->
+                <div id="call-screen" class="call-screen"></div>
+
+                <!-- Notification centre / control centre -->
+                <div id="nc" class="notif-center"></div>
+                <div id="cc" class="control-center"></div>
+
+                <!-- Status bar + Dynamic Island -->
+                <div id="statusbar" class="statusbar">
+                    <div class="sb-left"><span id="sb-time">12:00</span></div>
+                    <div class="sb-right">
+                        <i id="sb-dnd" class="fa-solid fa-moon sb-ic hidden"></i>
+                        <i id="sb-plane" class="fa-solid fa-plane sb-ic hidden"></i>
+                        <span id="sb-signal" class="sb-signal"><b></b><b></b><b></b><b></b></span>
+                        <i id="sb-wifi" class="fa-solid fa-wifi sb-ic"></i>
+                        <span class="sb-battery"><span class="sb-battery-level"></span></span>
+                    </div>
+                    <div class="sb-hot sb-hot-left" data-open="nc"></div>
+                    <div class="sb-hot sb-hot-right" data-open="cc"></div>
+                </div>
+                <div id="island" class="island"><div class="island-inner"></div></div>
+
+                <!-- Banners, sheets, alerts -->
+                <div id="banner-layer" class="banner-layer"></div>
+                <div id="modal-layer" class="modal-layer"></div>
+
+                <div id="home-indicator" class="home-indicator"><span></span></div>
+                <div id="dimmer" class="dimmer"></div>
+            </div>
+        </div>
+    </div>
+
+    <div id="viewer" class="viewer"><img alt=""><span class="viewer-close"><i class="fa-solid fa-xmark"></i></span></div>
+
+    <script src="./js/core.js"></script>
+    <script src="./js/ui.js"></script>
+    <script src="./js/gameview.js"></script>
+    <script src="./js/system.js"></script>
+    <script src="./js/apps/phone.js"></script>
+    <script src="./js/apps/messages.js"></script>
+    <script src="./js/apps/mail.js"></script>
+    <script src="./js/apps/wallet.js"></script>
+    <script src="./js/apps/ads.js"></script>
+    <script src="./js/apps/garage.js"></script>
+    <script src="./js/apps/crypto.js"></script>
+    <script src="./js/apps/racing.js"></script>
+    <script src="./js/apps/mdt.js"></script>
+    <script src="./js/apps/photos.js"></script>
+    <script src="./js/apps/settings.js"></script>
+    <script src="./js/apps/clock.js"></script>
+    <script src="./js/apps/calendar.js"></script>
+    <script src="./js/apps/weather.js"></script>
+    <script src="./js/apps/notes.js"></script>
+    <script src="./js/apps/store.js"></script>
+    <script src="./js/apps/social.js"></script>
+    <script src="./js/apps/market.js"></script>
+    <script src="./js/apps/extras.js"></script>
+    <script src="./js/apps/apps3.js"></script>
+    <script src="./js/apps/live.js"></script>
+    <script src="./js/apps/browser.js"></script>
+    <script src="./js/apps/advanced.js"></script>
+    <script src="./js/apps/setup.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>
