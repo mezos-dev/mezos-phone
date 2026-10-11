@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon.png" width="120" alt="mezos-phone icon">
+  <img src="phone.png" width="120" alt="mezos-phone icon">
 </p>
 
 <h1 align="center">mezos-phone — iPhone-style Phone for FiveM QBCore</h1>
@@ -50,36 +50,29 @@
 
 ## 📸 Screenshots
 
+<h3 align="center">Lock screen · Home screen · Settings</h3>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1558976702456275045/1558976866348441752/strip-core.png" alt="mezos-phone lock screen, home screen with widgets and settings app">
+  <img src="https://i.postimg.cc/bN0NMYN7/lock.png" width="200" alt="mezos-phone Lock screen">
+  <img src="https://i.postimg.cc/bN0NMYN5/home.png" width="200" alt="mezos-phone Home screen with widgets">
+  <img src="https://i.postimg.cc/kXNXZMXz/home2.png" width="200" alt="mezos-phone Home screen page 2 with App Store apps">
+  <img src="https://i.postimg.cc/9FPFSXQH/settings.png" width="200" alt="mezos-phone Settings app">
 </p>
 
+<h3 align="center">Messages · X · App Store</h3>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1558976702456275045/1558976867158065334/strip-social.png" alt="mezos-phone messages, conversation, X social app and App Store">
+  <img src="https://i.postimg.cc/Nf8fVGfW/messages.png" width="200" alt="mezos-phone Messages app">
+  <img src="https://i.postimg.cc/hP8Pw4Py/chat.png" width="200" alt="mezos-phone Chat conversation">
+  <img src="https://i.postimg.cc/9QWFj3rS/x.png" width="200" alt="mezos-phone X (Twitter) social app">
+  <img src="https://i.postimg.cc/QxgxPNdD/store.png" width="200" alt="mezos-phone App Store">
 </p>
 
+<h3 align="center">Wallet · Radio · Health · Weather</h3>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1558976702456275045/1558976866793029662/strip-life.png" alt="mezos-phone wallet, radio, health and weather apps">
+  <img src="https://i.postimg.cc/fT7TFWRZ/wallet.png" width="200" alt="mezos-phone Wallet app">
+  <img src="https://i.postimg.cc/7Y1YcPZ8/radio.png" width="200" alt="mezos-phone Radio app">
+  <img src="https://i.postimg.cc/FsbsqFsC/health.png" width="200" alt="mezos-phone Health app">
+  <img src="https://i.postimg.cc/rFGFbywM/weather.png" width="200" alt="mezos-phone Weather app">
 </p>
-
-<details>
-<summary><b>More screenshots (individual screens)</b></summary>
-<br>
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977508232134856/lock.png" width="200" alt="Lock screen">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977619230330961/home.png" width="200" alt="Home screen">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977641904738344/home2.png" width="200" alt="Home screen page 2">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977672066105394/messages.png" width="200" alt="Messages">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977689271013536/chat.png" width="200" alt="Chat">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977719037861929/x.png" width="200" alt="X app">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977748628807794/store.png" width="200" alt="App Store">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977776802074734/wallet.png" width="200" alt="Wallet">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977794937983026/settings.png?ex=6acd66b6&is=6acc1536&hm=77e2341d359b3b080311a34daf755fd6d6168cfac994e85a91e150b735392e86&" width="200" alt="Settings">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977833257410671/radio.png" width="200" alt="Radio">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558977853184282624/health.png" width="200" alt="Health">
-  <img src="https://media.discordapp.net/attachments/1558976702456275045/1558977874659385475/weather.png" width="200" alt="Weather">
-</p>
-</details>
 
 ---
 
@@ -281,7 +274,7 @@ exports['mezos-phone']:sendNewMailToOffline(citizenid, mailData)
 ---
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1558976702456275045/1558976865874608288/icon.png" width="48" alt=""><br>
+  <img src="phone.png" width="48" alt=""><br>
   <b>mezos-phone</b>: the iPhone-style phone for FiveM QBCore servers.<br>
   <sub>Keywords: FiveM phone · QBCore phone · qb-phone replacement · iPhone phone script · FiveM iOS phone · GTA RP phone · FiveM camera phone · FiveM Instagram TikTok Twitter phone</sub>
 </p>
