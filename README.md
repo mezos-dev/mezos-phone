@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="phone.png" width="120" alt="mezos-phone icon">
+  <img src="docs/icon.png" width="120" alt="mezos-phone icon">
 </p>
 
 <h1 align="center">mezos-phone — iPhone-style Phone for FiveM QBCore</h1>
@@ -50,29 +50,36 @@
 
 ## 📸 Screenshots
 
-<h3 align="center">Lock screen · Home screen · Settings</h3>
 <p align="center">
-  <img src="https://i.postimg.cc/bN0NMYN7/lock.png" width="200" alt="mezos-phone Lock screen">
-  <img src="https://i.postimg.cc/bN0NMYN5/home.png" width="200" alt="mezos-phone Home screen with widgets">
-  <img src="https://i.postimg.cc/kXNXZMXz/home2.png" width="200" alt="mezos-phone Home screen page 2 with App Store apps">
-  <img src="https://i.postimg.cc/9FPFSXQH/settings.png" width="200" alt="mezos-phone Settings app">
+  <img src="docs/strip-core.png" alt="mezos-phone lock screen, home screen with widgets and settings app">
 </p>
 
-<h3 align="center">Messages · X · App Store</h3>
 <p align="center">
-  <img src="https://i.postimg.cc/Nf8fVGfW/messages.png" width="200" alt="mezos-phone Messages app">
-  <img src="https://i.postimg.cc/hP8Pw4Py/chat.png" width="200" alt="mezos-phone Chat conversation">
-  <img src="https://i.postimg.cc/9QWFj3rS/x.png" width="200" alt="mezos-phone X (Twitter) social app">
-  <img src="https://i.postimg.cc/QxgxPNdD/store.png" width="200" alt="mezos-phone App Store">
+  <img src="docs/strip-social.png" alt="mezos-phone messages, conversation, X social app and App Store">
 </p>
 
-<h3 align="center">Wallet · Radio · Health · Weather</h3>
 <p align="center">
-  <img src="https://i.postimg.cc/fT7TFWRZ/wallet.png" width="200" alt="mezos-phone Wallet app">
-  <img src="https://i.postimg.cc/7Y1YcPZ8/radio.png" width="200" alt="mezos-phone Radio app">
-  <img src="https://i.postimg.cc/FsbsqFsC/health.png" width="200" alt="mezos-phone Health app">
-  <img src="https://i.postimg.cc/rFGFbywM/weather.png" width="200" alt="mezos-phone Weather app">
+  <img src="docs/strip-life.png" alt="mezos-phone wallet, radio, health and weather apps">
 </p>
+
+<details>
+<summary><b>More screenshots (individual screens)</b></summary>
+<br>
+<p align="center">
+  <img src="docs/screens/lock.png" width="200" alt="Lock screen">
+  <img src="docs/screens/home.png" width="200" alt="Home screen">
+  <img src="docs/screens/home2.png" width="200" alt="Home screen page 2">
+  <img src="docs/screens/messages.png" width="200" alt="Messages">
+  <img src="docs/screens/chat.png" width="200" alt="Chat">
+  <img src="docs/screens/x.png" width="200" alt="X app">
+  <img src="docs/screens/store.png" width="200" alt="App Store">
+  <img src="docs/screens/wallet.png" width="200" alt="Wallet">
+  <img src="docs/screens/settings.png" width="200" alt="Settings">
+  <img src="docs/screens/radio.png" width="200" alt="Radio">
+  <img src="docs/screens/health.png" width="200" alt="Health">
+  <img src="docs/screens/weather.png" width="200" alt="Weather">
+</p>
+</details>
 
 ---
 
@@ -274,7 +281,7 @@ exports['mezos-phone']:sendNewMailToOffline(citizenid, mailData)
 ---
 
 <p align="center">
-  <img src="phone.png" width="48" alt=""><br>
+  <img src="docs/icon.png" width="48" alt=""><br>
   <b>mezos-phone</b>: the iPhone-style phone for FiveM QBCore servers.<br>
   <sub>Keywords: FiveM phone · QBCore phone · qb-phone replacement · iPhone phone script · FiveM iOS phone · GTA RP phone · FiveM camera phone · FiveM Instagram TikTok Twitter phone</sub>
 </p>
